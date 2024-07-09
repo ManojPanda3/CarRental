@@ -1,8 +1,10 @@
 {
     "recommendations": [
       "bradlc.vscode-tailwindcss",
-      "dsznajder.es7-react-js",
+      "dsznajder.es7-react-js-snippets",
       "formulahendry.auto-rename-tag",
-      "esbenp.prettier-vscode"
+      "esbenp.prettier-vscode",
+      "formulahendry.auto-complete-tag",
+      "formulahendry.auto-close-tag",
     ],
 }
