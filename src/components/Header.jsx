@@ -11,10 +11,9 @@ const Header = () => {
 			{width > 550 ? (
 				<>
 					<nav className='tabs'>
-						<div className='tab'>Home Page</div>
-						<div className='tab'>Rent Car</div>
-						<div className='tab'>Buy Car</div>
-						<div className='tab'>News</div>
+						<a className='tab' href="#buy-car">Buy car</a>
+						<a className='tab'>Rent car</a>
+						<a className='tab'>Contact us</a>
 					</nav>
 					<Button Class={""}>Sign in</Button>
 				</>
